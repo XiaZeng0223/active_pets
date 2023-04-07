@@ -61,8 +61,8 @@ So, whenever you want to use Active-PETs, you would pass in `activepets` as inpu
 ### Sample size
 To set the size of data sampled on each iteration, configure the variable `INCREMENT`.  To set the maximum size of total data sampled, configure the variable `MAX_SIZE`.  The number of iterations would be `MAX_SIZE\INCREMENT`.
 
-# future work anc collaborations
+# Future work and collaborations
 I'm interested in extending the current work in various ways, if there is any collaborating interests. For example, its efficiency has lots of potentials.
 
-# contact
+# Contact
 Xia Zeng (x.zeng@qmul.ac.uk)
