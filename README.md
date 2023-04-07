@@ -1,5 +1,5 @@
 # Active PETs
-Code repository for Active PETs. This repository would not be possible within previous open-source projects [ALPS](https://github.com/forest-snow/alps) and [PET](https://github.com/timoschick/pet).
+Code repository for Active PETs. This repository would not be possible without previous open-source projects [ALPS](https://github.com/forest-snow/alps) and [PET](https://github.com/timoschick/pet).
 
 Our main contribution is a weighted ensemble of PETs, which is used to actively sample the most beneficial samples from an unlabelled pool.
 
